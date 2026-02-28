@@ -1,4 +1,3 @@
-Aquí tienes el código completo y corregido, listo para que lo copies y lo pegues en tu archivo `servidor-smtp-propio.md` dentro de la carpeta `01-Linux-Admin`.
 
 ```markdown
 # 📧 Configuración de Servidor SMTP Propio (Postfix) en Ubuntu
@@ -98,7 +97,7 @@ sudo tail -f /var/log/mail.log
 
 ---
 
-*Mantenido por Naut Vargas | Ingeniería de Sistemas UNAC*
+*Mantenido por Naut Vargas
 
 ```
 
