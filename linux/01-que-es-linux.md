@@ -56,6 +56,3 @@ Linux (el kernel) fue creado por **Linus Torvalds** en 1991.
 
 ---
 
-## Fuente
-- Aprendido con ayuda de Claude (Anthropic)
-- Fecha: marzo 2026
