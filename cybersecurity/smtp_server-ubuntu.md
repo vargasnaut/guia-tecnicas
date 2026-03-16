@@ -101,11 +101,4 @@ sudo tail -f /var/log/mail.log
 
 ```
 
----
 
-### ¿Qué acabas de documentar?
-Acabas de registrar un proceso de **infraestructura pura**. A diferencia de usar Gmail, aquí tú eres el administrador del correo. Esto demuestra que entiendes cómo funciona el protocolo SMTP a bajo nivel.
-
-**¿Te gustaría que ahora preparemos la guía de instalación y configuración de MongoDB para tu carpeta de Bases de Datos?** Es una excelente forma de seguir llenando tu portafolio.
-
-```
