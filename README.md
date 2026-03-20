@@ -3,7 +3,7 @@
 Bienvenido a mi repositorio de documentación personal. Aquí registro todo mi proceso de aprendizaje, configuraciones de entornos y guías de proyectos en los que trabajo.
 
 ---
-
+## En el mundo IT "LO QUE NO ESTA DOCUMENTADO, NO EXISTE"
 ## 📚 Índice de Contenidos
 
 ### 🐧 Administración de Sistemas
